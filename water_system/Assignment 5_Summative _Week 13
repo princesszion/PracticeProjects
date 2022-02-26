@@ -1,0 +1,34 @@
+Assignment 5 [Summative]
+Here is the link to the git assignment : TBC [will add later once peer groups sign up in Canvas here]
+
+As Usual, congratulations on the work that you have done in the previous work, Kudos :)
+This is your Summative Assignment !
+
+Read the instructions in each question carefully.
+Sign up in Canvas for forming peer groups with 2 members [Sign Up]
+Submit Question-1 [The project proposal]
+in Canvas as a pdf document and get approval from the facilitator to proceed to Question-2.
+Plagiarized Code will lead to 0 grades
+Refer Rubrics to know the grading criteria per question
+Question 1  [20 points] [Get approval from the facilitator and submit the final document in Canvas for Q1 by 22nd Nov 2021, 23:59]
+You do not necessarily need to submit code in this question, we are testing how well can you design your classes when you are going to start a project here is what you have to do
+
+Writing code can be very frustrating sometimes, but if you are well prepared, the job becomes much easier. Because we are going to work on our projects, this question is all about getting yourself ready for the coding part of the project, 
+
+Here is what you need to do:
+
+Create a file with your project proposal and get the final approval from the facilitator and submit in Canvas by 22nd Nov 2021 23:59. Document another file with all the classes that your program is going to have and the relationship between those classes. Create a file for each of your classes, in that file, specify the instance variables of that class and for each method in the class write pseudo code of each.
+
+After that still in the same file, write how you would test that class and different test scenarios & related testcases that you will test. The requirement is at least 5 scenarios for each class
+
+Question 2   [50 points]
+Implement your proposed project in python
+
+This assignment is to code every section you wrote as part of your project proposal.
+
+Since you have everything designed on paper, what you have to do is to code everything you wrote, code all the test scenarios and run the same to match with the class design and testcase table in Question-1
+
+ 
+
+Question 3 [30 points]
+Improve the data manipulation in the project using files for persistence. Store all relevant data in a file [ or files]. Create a file (files) with your name, and on that file record the data that the user have saved in your system while using your application.  Handle all possible exceptions in the code.
